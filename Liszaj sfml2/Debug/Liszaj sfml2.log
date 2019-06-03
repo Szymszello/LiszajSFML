@@ -1,0 +1,11 @@
+﻿  tab_komorek.cpp
+  proces.cpp
+  Okno.cpp
+  Main.cpp
+  komorka.cpp
+  GUI.cpp
+  Generating Code...
+     Creating library E:\PROGRAMOWANIE\CPP\Liszaj sfml2\Debug\Liszaj sfml2.lib and object E:\PROGRAMOWANIE\CPP\Liszaj sfml2\Debug\Liszaj sfml2.exp
+sfml-main-d.lib(MainWin32.cpp.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'sfml-main-d.lib(MainWin32.cpp.obj)' or at 'E:\PROGRAMOWANIE\CPP\Liszaj sfml2\Debug\vc140.pdb'; linking object as if no debug info
+  Liszaj sfml2.vcxproj -> E:\PROGRAMOWANIE\CPP\Liszaj sfml2\Debug\Liszaj sfml2.exe
+  Liszaj sfml2.vcxproj -> E:\PROGRAMOWANIE\CPP\Liszaj sfml2\Debug\Liszaj sfml2.pdb (Full PDB)
